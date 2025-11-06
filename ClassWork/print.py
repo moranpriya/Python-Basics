@@ -1,0 +1,5 @@
+print("Dhemaji Engineering College")
+print(2+5)
+print(7-2)
+print(2*5)
+print(10/2)
